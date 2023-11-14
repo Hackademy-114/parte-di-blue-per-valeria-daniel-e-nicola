@@ -1,0 +1,29 @@
+.card{
+    height: 200px;
+}
+.border-primary{
+    color: #1566C0;
+}
+
+/* font usato */
+
+/* font-family: 'Roboto', sans-serif; */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    
+}
+p {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* fine font */
+
